@@ -1,0 +1,26 @@
+# ninja log v5
+64	3764	1700266903305449800	test/CMakeFiles/lmsm_tests.dir/lmsm.cpp.o	fdc724b2fee3068b
+527	2993	1701301411889601100	test/lmsm_assembler_tests.exe	a523e32e1e960e16
+215	9668	1695676763517492900	test/CMakeFiles/lmsm_assembler_tests.dir/assembler.cpp.o	ca982c24d602b239
+383	7689	1695676761541668400	test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	2ef8e2442353d205
+321	18447	1695676772289438500	test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	7fb22d36fdb318f7
+47	3806	1700266903346482400	test/CMakeFiles/lmsm_tests.dir/assembler.cpp.o	9648eefd9ce41ec7
+260	9993	1695676763839573000	test/CMakeFiles/lmsm_assembler_tests.dir/lmsm.cpp.o	54056c9087705828
+606	3353	1701300906608537300	test/lmsm_tests.exe	9363db0727591dc1
+26	2660	1700266902187452700	test/CMakeFiles/lmsm_tests.dir/firth.cpp.o	47cdece2484908f3
+6	458	1695676754293029700	CMakeFiles/lmsm_lib.dir/src/main.c.o	29ca0776db2410c
+86	440	1701301298607740300	CMakeFiles/lmsm_lib.dir/src/assembler.c.o	b89c0c4104517b4a
+45	327	1701301409227990000	CMakeFiles/lmsm_lib.dir/src/lmsm.c.o	81be70e1eb5ed778
+20672	20896	1695676774751625800	lib/libgtest_maind.a	90bad7111b7328a0
+115	809	1695676754646375600	CMakeFiles/lmsm_lib.dir/src/repl.c.o	f318d6e43f7d9668
+328	527	1701301409430793700	liblmsm_lib.a	35921847a6c010cb
+60	418	1700892864991836900	CMakeFiles/lmsm_lib.dir/src/firth.c.o	4e745f3ddd54eb67
+18448	20671	1695676774523647600	lib/libgtestd.a	4f8886f20639fcf1
+88	2962	1701301434403095000	test/lmsm_tests.exe	9363db0727591dc1
+33	233	1701303931187485100	CMakeFiles/lmsm_lib.dir/src/assembler.c.o	b89c0c4104517b4a
+234	344	1701303931302561400	liblmsm_lib.a	35921847a6c010cb
+344	1900	1701303932852048500	test/lmsm_assembler_tests.exe	a523e32e1e960e16
+25	207	1701304093904772800	CMakeFiles/lmsm_lib.dir/src/assembler.c.o	b89c0c4104517b4a
+208	311	1701304094011427800	liblmsm_lib.a	35921847a6c010cb
+311	1855	1701304095548344100	test/lmsm_assembler_tests.exe	a523e32e1e960e16
+25	1626	1701304108912686100	test/lmsm_tests.exe	9363db0727591dc1

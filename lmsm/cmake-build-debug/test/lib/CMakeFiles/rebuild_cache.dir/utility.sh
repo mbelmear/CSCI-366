@@ -1,0 +1,4 @@
+set -e
+
+cd "/cygdrive/c/Users/akmik/OneDrive/Desktop/CSCI 366/csci-366-fall2023-private/lmsm/cmake-build-debug/test/lib"
+/cygdrive/c/Users/akmik/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/bin/cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
